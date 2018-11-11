@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Comp test snapsot 1`] = `
+<div>
+  <button
+    className="btn"
+    onClick={[Function]}
+  />
+  <button
+    className="btn1"
+  />
+  <input
+    className="input"
+    onChange={[Function]}
+  />
+</div>
+`;

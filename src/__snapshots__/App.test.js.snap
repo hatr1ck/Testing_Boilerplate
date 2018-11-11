@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> test snapsot 1`] = `
+<div>
+  <Comp />
+  <p
+    id="testProps"
+  />
+  <p>
+    state test
+  </p>
+  <input
+    onChange={[Function]}
+    value="initial"
+  />
+  <button
+    disabled={true}
+  >
+    Disabled button
+  </button>
+</div>
+`;
